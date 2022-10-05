@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="SDM IPTV FREE" tvg-logo="https://i.imgur.com/xpYw4gO.jpg",IPTV Milik Anwar Effendy - Tidak Untuk Dijual
+
+******************** TV_BERITA_Indonesia ********************
+#EXTM3U
+
+#EXTINF:-1 group-title="TV_BERITA_Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg", Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+
+
+#EXTINF:-1 group-title="TV_BERITA_Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg", tvOne
+http://rr2.dens.tv/s/s105/index3.m3u8
+
+#EXTINF:-1 group-title="TV_BERITA_Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg", Kompas TV
+http://rr2.dens.tv/s/s104/index10.m3u8
